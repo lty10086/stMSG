@@ -1,6 +1,19 @@
 # stMSG, a unified framework that integrates Maximum mean discrepancy (MMD) mapping, structure-aware graph augmentation, and embedding-guided graph autoencoder (GAE) integration.
 ![StMSG Overview ](./Fig7.jpg)
 
+
+## Getting Started
+
+### Environment
+
+To get started with SpaIM, please follow the steps below to set up your environment:
+
+```bash
+git clone https://github.com/QSong-github/SpaIM
+cd stMSG
+conda env create -f environment.yaml
+conda activate stMSG
+
 ## Datasets
 
 All datasets used in this study are publicly available.
