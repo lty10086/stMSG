@@ -8,10 +8,12 @@
 
 To get started with stMSG, please follow the steps below to set up your environment:
 
+<pre>
 git clone https://github.com/lty10086/stMSG
 cd stMSG
 conda env create -f environment.yaml
 conda activate stMSG
+</pre>
 
 ### Datasets
 
