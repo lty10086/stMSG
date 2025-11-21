@@ -14,7 +14,7 @@ cd stMSG
 conda env create -f environment.yaml
 conda activate stMSG
 
-## Datasets
+### Datasets
 
 All datasets used in this study are publicly available.
 
@@ -28,5 +28,5 @@ The datasets should be organized in the following structure:
     |-- scRNAdata.h5ad
 </pre>
 
-## SpaIM Testing
+### SpaIM Testing
 Run demo.ipynb and save the results as a .csv file.
