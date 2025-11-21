@@ -6,10 +6,10 @@
 
 ### Environment
 
-To get started with SpaIM, please follow the steps below to set up your environment:
+To get started with stMSG, please follow the steps below to set up your environment:
 
 ```bash
-git clone https://github.com/QSong-github/SpaIM
+git clone https://github.com/lty10086/stMSG
 cd stMSG
 conda env create -f environment.yaml
 conda activate stMSG
@@ -29,3 +29,4 @@ The datasets should be organized in the following structure:
 </pre>
 
 ## SpaIM Testing
+Run demo.ipynb and save the results as a .csv file.
