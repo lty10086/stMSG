@@ -13,6 +13,7 @@ git clone https://github.com/lty10086/stMSG
 cd stMSG
 conda env create -f environment.yaml
 conda activate stMSG
+'''
 
 ### Datasets
 
