@@ -8,6 +8,6 @@ All datasets used in this study are publicly available.
 - All processed datasets can be downloaded at [stMSG_Synapse](https://www.synapse.org/Synapse:syn71726608/files/) and [SpaIM_Synapse](https://www.synapse.org/Synapse:syn64421787/files/).
 
 The datasets should be organized in the following structure:
-|-- dataset
-    |-- STdata.h5ad
-    |-- scRNAdata.h5ad
+-|-- dataset
+    -|-- STdata.h5ad
+    -|-- scRNAdata.h5ad
