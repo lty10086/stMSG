@@ -13,3 +13,5 @@ The datasets should be organized in the following structure:
     |-- STdata.h5ad
     |-- scRNAdata.h5ad
 </pre>
+
+## SpaIM Testing
